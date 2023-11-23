@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.androidjenkinsapp'
+    namespace 'com.bcfm.androidjenkinsapp'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.example.androidjenkinsapp"
+        applicationId "com.bcfm.androidjenkinsapp"
         minSdk 24
         targetSdk 34
         versionCode 1
